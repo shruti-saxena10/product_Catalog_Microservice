@@ -2,12 +2,12 @@
 A microservice that manages product information, supports adding, updating, and fetching products, and publishes events (on creation/update) to RabbitMQ.
 
 ## Tech Stack:
-Java 21
-Spring Boot
-PostgreSQL
-RabbitMQ (for event-driven design)
-Maven (build tool)
-Docker (containerization)
+- Java 21
+- Spring Boot
+- PostgreSQL
+- RabbitMQ (for event-driven design)
+- Maven (build tool)
+- Docker (containerization)
 
 ## Features:
 - Create, update, and retrieve products via REST APIs
